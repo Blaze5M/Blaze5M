@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Neato (aka Blaze) </h1>
+<h3 align="center">I'm a Lua Developer and Full-Stack JS Developer (Node, React) !</h3>
 
-<!--
-**BlazeFVM/BlazeFVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 All of my projects are available at [https://blazedev.net](https://balzedev.net)
 
-Here are some ideas to get you started:
+- 📝 I am the founder and CEO of @BlazeNetworkInc [https://blazedev.net](https://balzedev.net)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **react, node, fivem, linux, lua, discord, etc**
+
+- 📫 You can reach me at **contact@blazedev.net**
+
+- 📄 Know about my experiences [https://qlaffont.com/about](https://qlaffont.com/about)
+
+- ⚡ Fun fact **I started development during lockdown**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/blazedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blazedev" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlazeFVM&show_icons=true&locale=en&layout=compact" alt="BlazeFVM" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlazeFVM&show_icons=true&locale=en" alt="BlazeFVM" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlazeFVM&" alt="BlazeFVM" /></p>
