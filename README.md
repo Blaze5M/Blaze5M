@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Neato (aka Blaze) </h1>
 <h3 align="center">I'm a Lua Developer and Full-Stack JS Developer (Node, React) !</h3>
 
-- 👨‍💻 All of my projects are available at [https://blazedev.net](https://balzedev.net)
+- 👨‍💻 All of my projects are available at [https://blazedev.net](https://balzedev.net).
 
-- 📝 I am the founder and CEO of @BlazeNetworkInc [https://blazedev.net](https://balzedev.net)
+- 📝 I am the founder and CEO of @BlazeNetworkInc [https://blazedev.net](https://balzedev.net).
 
-- 💬 Ask me about **react, node, fivem, linux, lua, discord, etc**
+- 💬 Ask me about **react, node, fivem, linux, lua, discord, etc**.
 
-- 📫 You can reach me at **contact@blazedev.net**
+- 📫 You can reach me at **contact@blazedev.net**.
 
 - 📄 Know about my experiences [https://qlaffont.com/about](https://qlaffont.com/about)
 
-- ⚡ Fun fact **I started development during lockdown**
+- ⚡ Fun fact **I started development during lockdown**.
 
 
 <h3 align="left">Connect with me:</h3>
