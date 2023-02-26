@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **contact@blazedev.net**.
 
-- 📄 Know about my experiences [https://qlaffont.com/about](https://qlaffont.com/about)
+- 📄 
 
 - ⚡ Fun fact **I started development during lockdown**.
 
@@ -18,6 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/blazedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blazedev" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlazeFVM&show_icons=true&locale=en&layout=compact" alt="BlazeFVM" /></p>
