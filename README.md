@@ -9,8 +9,6 @@
 
 - 📫 You can reach me at **contact@blazedev.net**.
 
-- 📄 
-
 - ⚡ Fun fact **I started development during lockdown**.
 
 
