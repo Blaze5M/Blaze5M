@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neato (aka Blaze) </h1>
 <h3 align="center">I'm a Lua Developer and Full-Stack JS Developer (Node, React) !</h3>
 
-- 👨‍💻 All of my projects are available at [https://blazedev.net](https://balzedev.net).
+- 👨‍💻 All of my projects are available at [https://blazedev.net](https://blazedev.net).
 
 - 📝 I am the founder and CEO of [@BlazeNetworkInc](https://github.com/BlazeNetworkInc).
 
