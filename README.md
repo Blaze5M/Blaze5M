@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://blaze.industries](https://blaze.industries).
 
-- 📝 I am the founder and CEO of [@BlazeNetworkInc](https://github.com/BlazeNetworkInc).
+- 📝 I am the founder and CEO of [@BlazeIndustriesInc](https://github.com/BlazeIndustriesInc).
 
 - 💬 Ask me about **react, node, fivem, linux, lua, discord, etc**.
 
