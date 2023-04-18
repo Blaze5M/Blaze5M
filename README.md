@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neato (aka Blaze) </h1>
+<h1 align="center">Hi 👋, I'm Blaze </h1>
 <h3 align="center">I'm a Lua Developer and Full-Stack JS Developer (Node, React) !</h3>
 
 - 👨‍💻 All of my projects are available at [https://blazedev.net](https://blazedev.net).
