@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Blaze </h1>
 <h3 align="center">I'm a Lua Developer and Full-Stack JS Developer (Node, React) !</h3>
 
-- 👨‍💻 All of my projects are available at [https://blazedev.net](https://blazedev.net).
+- 👨‍💻 All of my projects are available at [https://blaze.industries](https://blaze.industries).
 
 - 📝 I am the founder and CEO of [@BlazeNetworkInc](https://github.com/BlazeNetworkInc).
 
 - 💬 Ask me about **react, node, fivem, linux, lua, discord, etc**.
 
-- 📫 You can reach me at **contact@blazedev.net**.
+- 📫 You can reach me at **inquiries@blaze.industries**.
 
 - ⚡ Fun fact **I started development during lockdown**.
 
