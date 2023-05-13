@@ -19,8 +19,8 @@
 <a href="https://twitter.com/BlazeDevNet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlazeFVM&show_icons=true&locale=en&layout=compact" alt="BlazeFVM" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blaze5M&show_icons=true&locale=en&layout=compact" alt="Blaze5M" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlazeFVM&show_icons=true&locale=en" alt="BlazeFVM" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Blaze5M&show_icons=true&locale=en" alt="Blaze5M" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlazeFVM&" alt="BlazeFVM" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Blaze5M&" alt="Blaze5M" /></p>
