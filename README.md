@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blaze </h1>
-<h3 align="center">I'm mainly a Backend Developer but have done sone Node & React !</h3>
+<h3 align="center">I'm mainly a Backend Developer !</h3>
 
 - 👨‍💻 All of my projects are available at [https://blaze5m.com](https://blaze5m.com).
 
