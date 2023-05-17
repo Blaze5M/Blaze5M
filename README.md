@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Blaze </h1>
 <h3 align="center">I'm mainly a Backend Developer !</h3>
 
-- 👨‍💻 All of my projects are available at [https://blaze5m.com](https://blaze5m.com).
+- 👨‍💻 My current project is available at [https://blaze5m.com](https://blaze5m.com).
 
 - 📝 I am the Founder & Lead Developer of [@BlazeEnterprisesSAM](https://github.com/BlazeEnterprisesSAM).
 
-- 💬 Ask me about **react, node, fivem, linux, lua, discord, etc**.
+- 💬 Ask me about **sql, node, fivem, linux, lua, discord, etc**.
 
 - 📫 You can reach me at **inquiries@blaze5m.com**.
 
