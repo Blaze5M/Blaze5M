@@ -15,7 +15,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://discord.gg/blaze5M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/" height="30" width="40" /></a>
+<p href="Sandwich" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/997512351760789507>
+</p>
 <a href="https://twitter.com/blaze5M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/" height="30" width="40" /></a>
 </p>
 
