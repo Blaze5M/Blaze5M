@@ -2,7 +2,7 @@
 <h3 align="center">I'm mainly a Backend Developer !</h3>
 
 
-- 👨‍💻 My current project is available at [https://blaze5m.net](https://blaze5m.net).<br>
+- 👨‍💻 My current project is available at [https://blaze5m.net](https://blaze5m.com).<br>
 - 📝 I am the Founder & Lead Developer of [@BlazeHoldings](https://github.com/BlazeHoldings).<br>
 - 💬 Ask me about **sql, node, fivem, linux, lua, discord, etc**.<br>
 - 📫 You can reach me at **inquiries@blaze5m.net**.<br>
