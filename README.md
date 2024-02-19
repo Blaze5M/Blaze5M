@@ -3,7 +3,7 @@
 
 
 - 👨‍💻 My current project is available at [https://blaze5m.com](https://blaze5m.com).<br>
-- 📝 I am the Founder & Lead Developer of [@BlazeHoldings](https://github.com/BlazeHoldings).<br>
+- 📝 I am the Lead Developer for [@BlazeHoldings](https://github.com/BlazeHoldings).<br>
 - 💬 Ask me about **sql, node, fivem, linux, lua, discord, etc**.<br>
 - 📫 You can reach me at **inquiries@blaze5m.net**.<br>
 - ⚡ Fun fact **I started development during lockdown**.<br>
