@@ -3,7 +3,7 @@
 
 
 - 👨‍💻 My current project is available at [https://modern5m.com](https://modern5m.com).<br>
-- 📝 I am the Lead Developer for [@BlazeHoldings](https://github.com/Modern5M).<br>
+- 📝 I am the Lead Developer for [@Modern5M](https://github.com/Modern5M).<br>
 - 💬 Ask me about **sql, node, fivem, linux, lua, discord, etc**.<br>
 - 📫 You can reach me at **inquiries@modern5m.net**.<br>
 - ⚡ Fun fact **I started development during lockdown**.<br>
